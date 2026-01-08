@@ -1,6 +1,6 @@
 # Bajaj Broking – Trading API Wrapper SDK
 
-## 📌 Overview
+## Overview
 
 This project is a **simulated Trading Backend SDK** built as part of the **Bajaj Broking Campus Hiring Assignment**.
 It demonstrates backend system design, RESTful API development, and fundamental trading domain concepts such as **orders, trades, and portfolio management**.
@@ -20,7 +20,7 @@ The system is **fully simulated** and does **not connect to real markets or live
 
 ---
 
-## 🚀 Features Implemented
+## Features Implemented
 
 ### 1️⃣ Instruments
 
@@ -61,7 +61,7 @@ The system is **fully simulated** and does **not connect to real markets or live
 
 ---
 
-## 🧩 System Architecture
+## System Architecture
 
 ```
 Controller  →  Service  →  Repository  →  In‑Memory Storage
@@ -104,7 +104,7 @@ http://localhost:8080
 
 ---
 
-## 📘 Swagger / API Documentation
+## Swagger / API Documentation
 
 Once the application is running, open:
 
@@ -149,7 +149,7 @@ GET /api/v1/portfolio
 
 ---
 
-## 📌 Sample API Usage
+## Sample API Usage
 
 ### Place Market Buy Order
 
@@ -183,7 +183,7 @@ GET /api/v1/portfolio
 
 ---
 
-## 🧠 Order Execution Logic (Simulation)
+## Order Execution Logic (Simulation)
 
 * **MARKET Order**
 
@@ -198,7 +198,7 @@ GET /api/v1/portfolio
 
 ---
 
-## 📝 Assumptions
+## Assumptions
 
 * Single hardcoded user (authentication mocked)
 * No real market connectivity
@@ -207,7 +207,7 @@ GET /api/v1/portfolio
 
 ---
 
-## 🎯 Evaluation Focus
+## Evaluation Focus
 
 This project demonstrates:
 
@@ -219,11 +219,9 @@ This project demonstrates:
 
 ---
 
-## 👤 Author
+## Author
 
 **Lakshya Khandelwal**
 Campus Hiring Assignment – Bajaj Broking
 
 ---
-
-✅ *Assignment complete and ready for evaluation.*
